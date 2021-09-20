@@ -1,11 +1,11 @@
 ### Hello World, i'm Kevin Nuarillo 👋
 
-## Self-Learning about Programming!!
+## Self-Learning about Programming and Math!!
 
 - 🌱 I’m currently learning Javascript and Backend Development
 - 👯 I’m looking for a job and more experience in Tech World
 - 🥅 2021 Goals: Finish my learn and get certification
-- ⚡ Fun fact: I like to listen music, and play RPG games
+- ⚡ Fun fact: I like to learn Math, challenging Math on Quizizz and play RPG games
 
 ### Connect with me:
 
