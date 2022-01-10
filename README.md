@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Javascript and Backend Development
 - 👯 I’m looking for a job and more experience in Tech World
-- 🥅 2021 Goals: Finish my learn and get certification
+- 🥅 2022 Goals: I will be more expert about logical thinking, javascript, golang, php
 - ⚡ Fun fact: I like to learn Math, challenging Math on Quizizz and play RPG games
 
 ### Connect with me:
